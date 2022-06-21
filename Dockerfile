@@ -6,4 +6,4 @@ RUN apt update && apt upgrade -y
 COPY start /start
 
 # run the program
-CMD ["/bin/bash", "/start"]
+CMD ["/bin/bash", "/start.sh"]
