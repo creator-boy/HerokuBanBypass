@@ -1,4 +1,3 @@
 git clone https://github.com/creator-boy/PyroNoobCodeX
 cd PyroNoobCodeX
-pip3 install -U pip
 python main.py
