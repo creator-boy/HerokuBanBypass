@@ -1,6 +1,4 @@
-apt install ffmpeg aria2
 git clone https://github.com/creator-boy/PyroNoobCodeX
 cd PyroNoobCodeX
 pip3 install -U pip
-pip3 install -r ./requirements.txt
 python main.py
